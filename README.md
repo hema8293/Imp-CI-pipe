@@ -72,5 +72,4 @@ How to Run the Pipeline
 
 Clone the repository:
 
-git clone https://github.com/{YourGitHubUsername}/java-app.git
-
+git clone https://github.com/{YourGitHubUsername}/java-app.
