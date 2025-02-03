@@ -1,6 +1,9 @@
 name: Java CI Pipeline
 
 on:
+push:
+    branches:
+      - Assignment1-ci-Hema
   pull_request:
     branches:
       - assignment-1  # Runs only on PRs to the assignment branch
